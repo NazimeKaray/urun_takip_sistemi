@@ -1,0 +1,17 @@
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\bin\Debug\ÜRÜN TAKİP SİSTEMİ.exe.config
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\bin\Debug\ÜRÜN TAKİP SİSTEMİ.exe
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\bin\Debug\ÜRÜN TAKİP SİSTEMİ.pdb
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN TAKİP SİSTEMİ.csproj.AssemblyReference.cache
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN TAKİP SİSTEMİ.csproj.SuggestedBindingRedirects.cache
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.Form1.resources
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.Properties.Resources.resources
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN TAKİP SİSTEMİ.csproj.GenerateResource.cache
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN TAKİP SİSTEMİ.csproj.CoreCompileInputs.cache
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN TAKİP SİSTEMİ.exe
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN TAKİP SİSTEMİ.pdb
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.formUrun.resources
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.istatistikler.resources
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.adminPaneli.resources
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.frmYonlendirme.resources
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.frmMusteri.resources
+D:\visual projects\ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ\obj\Debug\ÜRÜN_TAKİP_SİSTEMİ.frmSatis.resources

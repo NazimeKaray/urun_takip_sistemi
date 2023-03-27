@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÜRÜN TAKİP SİSTEMİ", "ÜRÜN TAKİP SİSTEMİ\ÜRÜN TAKİP SİSTEMİ.csproj", "{DCD64B0E-18D8-42A3-8A3E-0DADF77A0D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B31C7AC1-78C9-4857-85D4-45A8491B1799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD64B0E-18D8-42A3-8A3E-0DADF77A0D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD64B0E-18D8-42A3-8A3E-0DADF77A0D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD64B0E-18D8-42A3-8A3E-0DADF77A0D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD64B0E-18D8-42A3-8A3E-0DADF77A0D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31C7AC1-78C9-4857-85D4-45A8491B1799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31C7AC1-78C9-4857-85D4-45A8491B1799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31C7AC1-78C9-4857-85D4-45A8491B1799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31C7AC1-78C9-4857-85D4-45A8491B1799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12660BD-4ECA-4217-90D2-A08E2DD93339}
+	EndGlobalSection
+EndGlobal
